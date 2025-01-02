@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110007
 ## Title: AreQuestsDone
 ## Notes: Slash command for checking that quests given by their questID are done
 ## Author: clt60
